@@ -1,0 +1,27 @@
+#test {
+    color: blue;
+    font-size: 14px;
+}
+
+#test3 {
+    color: red;
+    font-size: 30ßx;
+}
+
+#test4 {
+    color:green;
+    font-size: 100ßx;
+}
+
+.box {
+    border-style: solid;
+    color: rosybrown;
+    border-width: 3px;
+    height: 100px;
+}
+
+.text-primary {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+}
